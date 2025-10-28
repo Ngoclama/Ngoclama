@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-  <defs>
-    <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00C3FF">
-        <animate attributeName="stop-color" values="#00C3FF;#ff00ff;#00C3FF" dur="8s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#7F00FF">
-        <animate attributeName="stop-color" values="#7F00FF;#00C3FF;#7F00FF" dur="8s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-  </defs>
-  <path fill="url(#grad1)" fill-opacity="1">
-    <animate attributeName="d" dur="10s" repeatCount="indefinite"
-      values="
-        M0,160L80,170C160,180,320,200,480,192C640,184,800,148,960,122C1120,96,1280,80,1360,72L1440,64L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z;
-        M0,150L80,130C160,110,320,90,480,120C640,150,800,230,960,250C1120,270,1280,230,1360,210L1440,190L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z;
-        M0,160L80,170C160,180,320,200,480,192C640,184,800,148,960,122C1120,96,1280,80,1360,72L1440,64L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z
-      " />
-  </path>
+<defs>
+<linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#00C3FF">
+<animate attributeName="stop-color" values="#00C3FF;#ff00ff;#00C3FF" dur="8s" repeatCount="indefinite" />
+</stop>
+<stop offset="100%" stop-color="#7F00FF">
+<animate attributeName="stop-color" values="#7F00FF;#00C3FF;#7F00FF" dur="8s" repeatCount="indefinite" />
+</stop>
+</linearGradient>
+</defs>
+<path fill="url(#grad1)" fill-opacity="1">
+<animate attributeName="d" dur="10s" repeatCount="indefinite"
+values="
+M0,160L80,170C160,180,320,200,480,192C640,184,800,148,960,122C1120,96,1280,80,1360,72L1440,64L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z;
+M0,150L80,130C160,110,320,90,480,120C640,150,800,230,960,250C1120,270,1280,230,1360,210L1440,190L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z;
+M0,160L80,170C160,180,320,200,480,192C640,184,800,148,960,122C1120,96,1280,80,1360,72L1440,64L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z
+" />
+</path>
 </svg>
