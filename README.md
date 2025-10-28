@@ -1,6 +1,6 @@
 <!-- 🌈 Animated Gradient Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NgocLamDev/NgocLamDev/main/header-lightwave.svg" alt="wave" width="100%" />
+  <img src="./header-lightwave.svg" alt="wave" width="100%" />
 </div>
 
 <h1 align="center">✨ Hey, I'm <span style="color:#00BFFF;">Ngọc Lâm Dev</span> 👋</h1>
@@ -84,13 +84,6 @@
 
 ---
 
-### 💬 Top Contributions  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=NgocLamDev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 ### 🌐 Connect With Me  
 
 <p align="center">
@@ -99,18 +92,7 @@
   <a href="https://www.youtube.com/@Biggy-nothing"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="mailto:luongngoclam255@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-<h3 align="center">✨ “Code. Create. Inspire.” ✨</h3>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NgocLamDev&icon=0&color=6" />
-</p>
-
----
-
 <!-- 🌊 Animated Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NgocLamDev/NgocLamDev/main/footer-wave.svg" alt="footer" width="100%" />
+  <img src="footer-wave.svg" alt="footer" width="100%" />
 </div>
