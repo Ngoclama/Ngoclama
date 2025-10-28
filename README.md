@@ -1,6 +1,6 @@
 <!-- 🌈 Animated Gradient Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NgocLamDev/NgocLamDev/main/assets/header-lightwave.svg" alt="wave" width="100%" />
+  <img src="https://raw.githubusercontent.com/NgocLamDev/NgocLamDev/main/header-lightwave.svg" alt="wave" width="100%" />
 </div>
 
 <h1 align="center">✨ Hey, I'm <span style="color:#00BFFF;">Ngọc Lâm Dev</span> 👋</h1>
@@ -112,5 +112,5 @@
 
 <!-- 🌊 Animated Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NgocLamDev/NgocLamDev/main/assets/footer-wave.svg" alt="footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/NgocLamDev/NgocLamDev/main/footer-wave.svg" alt="footer" width="100%" />
 </div>
